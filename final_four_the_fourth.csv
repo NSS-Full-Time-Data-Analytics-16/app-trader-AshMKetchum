@@ -1,0 +1,5 @@
+"app_name","max_price","min_rating","genre","purchase_price","monthly_profit","marketing_cost","total_profit"
+"starbucks","0.00","4.50","Food & Drink","25000",10000,1000,"1055000.0000000000000000"
+"instagram","0.00","4.50","Photo & Video","25000",10000,1000,"1055000.0000000000000000"
+"yahoo weather","0.00","4.50","Weather","25000",10000,1000,"1055000.0000000000000000"
+"airbnb","0.00","4.00","Travel","25000",10000,1000,"947000.0000000000000000"
